@@ -1,7 +1,7 @@
-- 👋 Hi, My name is Madina
-- 👀 I’m interested in Web Development, Automation and Artificial Intelligence
-- 📚 I’m currently learning MERN stack, Python, JEST
-- 💞️ I’m looking to collaborate on HTML, CSS and JavaScript projects
+🌸 Hi, My name is Madina, I'm a full-stack web developer <br /> 
+📚 I aim to learn as much as possible, and never afraid to take challenges <br />
+👩🏻‍💻 I like exploring new programming languages and different frameworks <br />
+✨ I’m currently learning MERN stack, Python and JEST <br />
 
 <!---
 madina0801/madina0801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
