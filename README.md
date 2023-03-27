@@ -1,7 +1,7 @@
 🌸 Hi, My name is Madina, I'm a Software Developer <br /> 
 📚 I aim to learn as much as possible, and never afraid to take challenges <br />
 👩🏻‍💻 I like exploring new programming languages and different frameworks <br />
-✨ Ready to work on JavaScript and Python projects <br />
+✨ Currently work on JavaScript and Python projects <br />
 
 <!---
 madina0801/madina0801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
