@@ -2,7 +2,7 @@
 📚 I aim to learn as much as possible, and never afraid to take challenges <br />
 👩🏻‍💻 I like exploring new programming languages and different frameworks <br />
 ✨ Currently work on JavaScript and Python projects <br />
-💜 Visit my [personal portfolio website](https://portfolio-madina.netlify.app/)~
+💜 Visit my [personal portfolio website](https://portfolio-madina.netlify.app/)
 
 <!---
 madina0801/madina0801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
