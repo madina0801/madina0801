@@ -1,4 +1,4 @@
-🌸 Hi, My name is Madina, I'm a Software Developer <br /> 
+🌸 Hi, My name is Madina, I'm a self-taught Software Developer <br /> 
 📚 I aim to learn as much as possible, and never afraid to take challenges <br />
 👩🏻‍💻 I like exploring new programming languages and different frameworks <br />
 ✨ Currently work on JavaScript and Python projects <br />
