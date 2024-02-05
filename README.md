@@ -1,4 +1,4 @@
-<h2 align="center">🎀 Hi, My name is Madina, I'm a Software Developer 🎀 </h2>
+<h2 align="center">:ribbon: Hi, My name is Madina, I'm a Software Developer :ribbon: </h2>
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/madina-tussupova/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,18 +8,18 @@
   </a> -->
 </div>
 
-### 👸🏻 About me:
+### :princess: About me:
 
-- 📖 I aim to learn as much as possible, and never afraid to take challenges
-- 💻 I like exploring new programming languages and different frameworks
-- 💗 My main interests are JavaScript (TS, React, Node, Jest), Python (Django)
-- 💎 Scratching the surface of Java, PHP, Selenium <br />
+- :book: I aim to learn as much as possible, and never afraid to take challenges
+- :computer: I like exploring new programming languages and different frameworks
+- :heartpulse: My main interests are JavaScript (TS, React, Node, Jest), Python (Django)
+- :gem: Scratching the surface of Java, PHP, Selenium <br />
 
-💄 Visit my [personal website](https://madina-portfolio.onrender.com)
+:lipstick: Visit my [personal website](https://madina-portfolio.onrender.com)
 
 <hr />
 
-### :hammer_and_wrench: Languages and Tools:
+### :pouch: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -35,7 +35,7 @@
 
 <hr />
 
-### :fire: My Stats:
+### :sparkles: My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=madina0801&theme=date-night)](https://git.io/streak-stats)
 <br />
 
