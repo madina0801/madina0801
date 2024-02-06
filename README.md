@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
 </div>
+<div align="right">
+<i>You are the greatest project you will ever work on.</i>
+</div>
 
 ### :princess: About me:
 
