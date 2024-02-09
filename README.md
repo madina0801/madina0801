@@ -1,4 +1,4 @@
-<h2 align="center">:ribbon: Hi, My name is Madina, I'm a Software Developer :ribbon: </h2>
+<h2 align="center">:ribbon: My name is Madina, I'm a Software Developer :ribbon: </h2>
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/madina-tussupova/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
