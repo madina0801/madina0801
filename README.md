@@ -17,7 +17,7 @@
 - :computer: I like exploring new programming languages and different frameworks
 - :heartpulse: My main interests are JavaScript (TS, React, Node, Jest), Python (Django)
 - :gem: Scratching the surface of Java, PHP, Selenium <br />
-- :artificial_satellite: Open for collaborations
+- :artificial_satellite: Open for collaborations! Feel free to reach out
 
 :lipstick: Visit my [personal website](https://madina-portfolio.onrender.com)
 
