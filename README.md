@@ -15,7 +15,7 @@
 
 - :book: I aim to learn as much as possible, and never afraid to take challenges
 - :computer: I like exploring new programming languages and different frameworks
-- :heartpulse: My main interests are JavaScript (TS, React, Node, Jest), Python (Django)
+- :heartpulse: My main interests are JavaScript (TS, Next.js, React, Node), Python (Django)
 - :gem: Scratching the surface of Java, PHP, Selenium <br />
 - :artificial_satellite: Open for collaborations! Feel free to reach out
 
