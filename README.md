@@ -1,6 +1,6 @@
 <h2 align="center">:ribbon: My name is Madina, I'm a Software Developer :ribbon: </h2>
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/madina-tussupova/)">
+  <a href="https://www.linkedin.com/in/madina-tussupova/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="your-twitter-URL">
