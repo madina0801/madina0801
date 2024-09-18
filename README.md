@@ -1,4 +1,4 @@
-<h2 align="center">:ribbon: My name is Madina, I'm a Software Developer :ribbon: </h2>
+<h2 align="center">:ribbon: My name is Madina, I'm a Data Analyst :ribbon: </h2>
 <div id="badges">
   <a href="https://www.linkedin.com/in/madina-tussupova/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,7 +15,6 @@
 
 - :book: I aim to learn as much as possible, and never afraid to take challenges
 - :computer: I like exploring new programming languages and different frameworks
-- :heartpulse: My main interests are JavaScript (TS, Next.js, React, Node) and Python
 - :gem: Self-taught CS and AI <br />
 - :artificial_satellite: Open for collaborations! Feel free to reach out
 
