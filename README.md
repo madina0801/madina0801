@@ -40,12 +40,6 @@
 
 <hr />
 
-### :sparkles: My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=madina0801&theme=date-night)](https://git.io/streak-stats)
-<br />
-
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madina0801&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)--->
-
 
 <!---
 madina0801/madina0801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
